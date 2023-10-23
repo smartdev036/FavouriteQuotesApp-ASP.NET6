@@ -1,0 +1,66 @@
+﻿# Ignore build output directories and files
+bin/
+obj/
+*.user
+*.suo
+*.tmp
+*.userosscache
+*.sln.docstates
+Thumbs.db
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.sqlite
+*.sqlite3
+*.sdf
+*.opensdf
+[Tt]est[Rr]esult*/
+__pycache__/
+*.dbmdl
+
+# Ignore Visual Studio files
+.vscode/
+.vs/
+**/.vscode/
+**/*.vspscc
+*.vssscc
+*.vspscc
+*.vsmac
+.vs2019
+.vs2017
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Rider Auto Generated Files
+.idea/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Rider specific files
+.idea/
+*.sln.iml
